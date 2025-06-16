@@ -1,0 +1,5 @@
+books_app/.env
+__pycache__/
+venv/
+.venv/
+book_app/data 2.csv
